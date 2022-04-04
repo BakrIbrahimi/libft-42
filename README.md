@@ -186,7 +186,7 @@ Part II :
 | • [ft_putchar_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putchar_fd.c) | - output a char to a file descriptor |
 | • [ft_putstr_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putstr_fd.c) | - output a string to a file descriptor |
 | • [ft_putendl_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putendl_fd.c) | - output a string to a file descriptor, followed by a new line |
-| • [ft_putnbr_fd.c()] (https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putnbr_fd.c) | - output a number to a file descriptor |
+| • [ft_putnbr_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putnbr_fd.c) | - output a number to a file descriptor |
 
 </p>
 
