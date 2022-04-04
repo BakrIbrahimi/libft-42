@@ -179,10 +179,10 @@ Part II :
 | • [ft_substr.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_substr.c) | - returns a substring from a string |
 | • [ft_strjoin.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_strjoin.c) | - concatenates two strings |
 | • [ft_strtrim.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_strtrim.c) | - trims the beginning and end of string with specific set of chars |
-| • [ft_split.c()] |(https://github.com/BakrIbrahimi/libft-42/blob/main/ft_split.c) - splits a string using a char as parameter |
-| • [ft_itoa.c()] |(https://github.com/BakrIbrahimi/libft-42/blob/main/ft_itoa.c) - converts a number into a string |
-| • [ft_strmapi.c()] |(https://github.com/BakrIbrahimi/libft-42/blob/main/ft_strmapi.c) - applies a function to each character of a string |
-| • [ft_striteri.c()] |(https://github.com/BakrIbrahimi/libft-42/blob/main/ft_striteri.c) - applies a function to each character of a string |
+| • [ft_split.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_split.c) | - splits a string using a char as parameter |
+| • [ft_itoa.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_itoa.c) | - converts a number into a string |
+| • [ft_strmapi.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_strmapi.c) | - applies a function to each character of a string |
+| • [ft_striteri.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_striteri.c) | - applies a function to each character of a string |
 | • [ft_putchar_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putchar_fd.c) | - output a char to a file descriptor |
 | • [ft_putstr_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putstr_fd.c) | - output a string to a file descriptor |
 | • [ft_putendl_fd.c()](https://github.com/BakrIbrahimi/libft-42/blob/main/ft_putendl_fd.c) | - output a string to a file descriptor, followed by a new line |
